@@ -11,7 +11,7 @@
 >
   <fieldset class="form-group">
     <h3>Comidas</h3>
-    <p>�Qu� te gustaria comer?</p>
+    <p>¿Qué te gustaria comer?</p>
     <Radio value="chilaquiles" label="Chilaquiles 🍲" bind:group={foodChoice} />
     <Radio
       value="fogodechao"
