@@ -1,7 +1,7 @@
 export default {
 	tennis: {
 		location: [25.71,40.740121],
-		address: 'Av. Manuel L. Barrag·n s/n, NiÒos HÈroes, Parque NiÒos HÈroes, 64290 Monterrey, N.L.',
+		address: 'Av. Manuel L. Barrag√°n s/n, Ni√±os H√©roes, Parque Ni√±os H√©roes, 64290 Monterrey, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipPneMeGI0mVqP_dRn3K2kO6pq88b4K_VoKB5Hwp=w426-h240-k-no',
 		title: 'Centro Tenistico',
 		startTime: 9,
@@ -9,7 +9,7 @@ export default {
 	},
 	karting: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Plaza Auriga, Av. Real San Agustin 301, 66260 San Pedro Garza GarcÌa, N.L.',
+		address: 'Plaza Auriga, Av. Real San Agustin 301, 66260 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipP1U5OZ9FAx3wNfGHDYjM03kvKozujVGxgz21bd=w408-h354-k-no',
 		title: 'Fast Kart',
 		startTime: 12,
@@ -17,7 +17,7 @@ export default {
 	},
 	escapeRooms: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Av. Real San Agustin Local 31, Zona San AgustÌn, 66278 San Pedro Garza GarcÌa, N.L.',
+		address: 'Av. Real San Agustin Local 31, Zona San Agust√≠n, 66278 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipOn_eLnX34ajpVltg6SsusBPnTgP6G5XQi23VnS=w408-h306-k-no',
 		title: 'Enigma Rooms',
 		startTime: 13,
@@ -25,7 +25,7 @@ export default {
 	},
 	vr: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Avanta Gardens, Av. JosÈ Vasconcelos 755, Del Valle, 66220 San Pedro Garza GarcÌa, N.L.',
+		address: 'Avanta Gardens, Av. Jos√© Vasconcelos 755, Del Valle, 66220 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipPl0zsQLkZrB-2Q3yFfTAZpJlcaQniDDwc0rJz2=w408-h302-k-no',
 		title: 'Zero Latency',
 		startTime: 13,
@@ -49,7 +49,7 @@ export default {
 	},
 	arcade: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Av L·zaro C·rdenas 436, Zona San AgustÌn, 66278 San Pedro Garza GarcÌa, N.L.',
+		address: 'Av L√°zaro C√°rdenas 436, Zona San Agust√≠n, 66278 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipPJB8hcX6Dw5NXktDQejIZ7K5-1_AhUedAMVJRr=w408-h306-k-no',
 		title: 'Circus Park',
 		startTime: 13,
@@ -57,7 +57,7 @@ export default {
 	},
 chilaquiles: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Hermenegildo Galeana 303, Barrio Tampiquito, Tampiquito, 66240 San Pedro Garza GarcÌa, N.L.',
+		address: 'Hermenegildo Galeana 303, Barrio Tampiquito, Tampiquito, 66240 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipN5YX4R6TajvsI3j6QpLl6jprzNMQVOqlYKVHso=w408-h544-k-no',
 		title: 'Chilaqueria.MX',
 		startTime: 13,
@@ -65,7 +65,7 @@ chilaquiles: {
 	},
 	fogodechao: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Av. Diego Rivera 1000, Residencial San AgustÌn 1er Sector, 66260 San Pedro Garza GarcÌa, N.L.',
+		address: 'Av. Diego Rivera 1000, Residencial San Agust√≠n 1er Sector, 66260 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipNA67_T9OdRAs_UPc9pahV0ldhj-X7QZjknfsXw=w426-h240-k-no',
 		title: 'Fogo de Chao',
 		startTime: 13,
@@ -73,7 +73,7 @@ chilaquiles: {
 	},
 	americano: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Av. JosÈ Vasconcelos 564 Ote, Valle del Campestre, 66250 San Pedro Garza GarcÌa, N.L.',
+		address: 'Av. Jos√© Vasconcelos 564 Ote, Valle del Campestre, 66250 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipNagEFbq6X2vVQhO3Yvrhw_lqPbFRDuUmwWfWNd=w408-h306-k-no',
 		title: 'Sierra Madre',
 		startTime: 13,
@@ -81,7 +81,7 @@ chilaquiles: {
 	},
 	italiano: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Av. Manuel GÛmez MorÌn 911, Comercial GÛmez Morin, Del Valle, 66220 San Pedro Garza GarcÌa, N.L.',
+		address: 'Av. Manuel G√≥mez Mor√≠n 911, Comercial G√≥mez Morin, Del Valle, 66220 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipOfcCDHA0Z0sAmquuuaSB9ZcugjpGCTIKbLAfyN=w408-h240-k-no-pi-10-ya66.81555-ro-0-fo100',
 		title: 'Il Capriccio Ristorante-Bar Italiano',
 		startTime: 13,
@@ -89,7 +89,7 @@ chilaquiles: {
 	},
 	cortes: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'R. de la Plata 448, Del Valle, 66220 San Pedro Garza GarcÌa, N.L.',
+		address: 'R. de la Plata 448, Del Valle, 66220 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipPB51FrEqjyWBzzfmij1a06B1hoX6F6VvDRAyaF=w408-h272-k-no',
 		title: 'Cara de Vaca',
 		startTime: 13,
@@ -97,7 +97,7 @@ chilaquiles: {
 	},
 	mexicano: {
 		location: [25.648923546888337, -100.33915098606607],
-		address: 'Av. Manuel GÛmez MorÌn 940, Col, JerÛnimo Siller, 66250 San Pedro Garza GarcÌa, N.L.',
+		address: 'Av. Manuel G√≥mez Mor√≠n 940, Col, Jer√≥nimo Siller, 66250 San Pedro Garza Garc√≠a, N.L.',
 		imageUrl: 'https://lh5.googleusercontent.com/p/AF1QipNB-sFqCSO7X5pmoTUWBHxvZobJJhnI-6HWDNxq=w408-h305-k-no',
 		title: 'El vips',
 		startTime: 13,
